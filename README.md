@@ -1,5 +1,5 @@
 <h1 align="center">Olá, meu nome é Juan Pablo</h1>
-<h3 align="center">Backend Developer 🚀</h3>
+<h3 align="center">FullStack Developer 🚀</h3>
 
 - 🔭 Atualmente sou gerente [Financeiro]
 
