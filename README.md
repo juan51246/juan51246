@@ -13,7 +13,7 @@
 
 - 📫 Me encontre no email **Juanpablodias12398@gmail.com**
 
-- 📄 Aqui está meu currículo https://l1nk.dev/curriculojuan51246
+- 📄 Aqui está meu currículo https://about-me-juan.s3.sa-east-1.amazonaws.com/Curriculo.pdf
 </p>
 
 <h3 align="left">Ferramentas que mais uso:</h3>
