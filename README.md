@@ -1,15 +1,15 @@
 <h1 align="center">Olá, meu nome é Juan Pablo</h1>
 <h3 align="center"> Developer 🚀</h3>
 
-- 🔭 Atualmente sou gerente [Financeiro]
+- 🔭 Atualmente sou subgerente [Financeiro]
 
 - 🌱 Atualmente curso **Análise e Desenvolvimento de Sistemas**
 
 - 🧑‍🎓 Linkedin https://www.linkedin.com/in/juanpablo96542/
 
-- 👨‍💻 Meu Portifólio https://l1nk.dev/portifoliojuan51246
+- 👨‍💻 Meu Portifólio https://about-me-juan.s3.sa-east-1.amazonaws.com/SLIDE.pptx
 
-- 💬 Me pergunte sobre **C++, Java, Typescript**
+- 💬 Me pergunte sobre **C++, AWS, SQL, HTML, CSS**
 
 - 📫 Me encontre no email **Juanpablodias12398@gmail.com**
 
