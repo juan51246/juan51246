@@ -7,13 +7,13 @@
 
 - 🧑‍🎓 Linkedin https://www.linkedin.com/in/juanpablo96542/
 
-- 👨‍💻 Meu Portifólio https://about-me-juan.s3.sa-east-1.amazonaws.com/SLIDE.pptx
+- 👨‍💻 Meu <a href= "https://about-me-juan.s3.sa-east-1.amazonaws.com/SLIDE.pptx" target="_blank" rel="noreferrer">Portifólio</a>
 
 - 💬 Me pergunte sobre **C++, AWS, SQL, HTML, CSS**
 
 - 📫 Me encontre no email **Juanpablodias12398@gmail.com**
 
-- 📄 Aqui está meu <a href= "https://about-me-juan.s3.sa-east-1.amazonaws.com/Curriculo.pdf" target="_blank" rel="noreferrer"><button>Currículo</button></a>
+- 📄 Aqui está meu <a href= "https://about-me-juan.s3.sa-east-1.amazonaws.com/Curriculo.pdf" target="_blank" rel="noreferrer">Currículo</a>
 </p>
 
 <h3 align="left">Ferramentas que mais uso:</h3>
