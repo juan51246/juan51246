@@ -13,7 +13,7 @@
 
 - 📫 Me encontre no email **Juanpablodias12398@gmail.com**
 
-- 📄 Aqui está meu currículo <a href= "https://about-me-juan.s3.sa-east-1.amazonaws.com/Curriculo.pdf" target="_blank">
+- 📄 Aqui está meu currículo <a href= "https://about-me-juan.s3.sa-east-1.amazonaws.com/Curriculo.pdf" target="_blank">Currículo</a>
 </p>
 
 <h3 align="left">Ferramentas que mais uso:</h3>
