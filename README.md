@@ -5,7 +5,7 @@
 
 - 🌱 Atualmente curso **Análise e Desenvolvimento de Sistemas**
 
-- 🧑‍🎓 Linkedin https://www.linkedin.com/in/juanpablo96542/
+- 🧑‍🎓 <a href= "https://www.linkedin.com/in/juanpablo96542/" target="_blank" rel="noreferrer">Linkedin</a>
 
 - 👨‍💻 Meu <a href= "https://about-me-juan.s3.sa-east-1.amazonaws.com/SLIDE.pptx" target="_blank" rel="noreferrer">Portifólio</a>
 
